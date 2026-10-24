@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anuj Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+## 🚀 Featured project: [Cloudledger](https://github.com/anuj7052/cloudledger) — Azure cost app
+
+**Cloudledger** is my open-source **Azure cost management app** (cost app / FinOps dashboard) by **anuj7052**:
+multi-tenant Azure cost analysis, anomaly detection, BOQ vs actual, and an Azure billing CRM for CSP partners.
+
+🔗 **Live:** [azure.microsoftupdates.co.in](https://azure.microsoftupdates.co.in) · ⭐ **Code:** [github.com/anuj7052/cloudledger](https://github.com/anuj7052/cloudledger)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj7052&label=Profile%20views&color=0e75b6&style=flat" alt="anuj7052" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj7052" alt="anuj7052" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **[Cloudledger](https://github.com/anuj7052/cloudledger)**, an Azure cost app (FastAPI + React)
 
 - 🌱 I’m currently learning **React.js,Node.js,Express.js, Django, Flask,**
 
