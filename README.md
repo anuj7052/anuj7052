@@ -6,7 +6,9 @@
 **Cloudledger** is my open-source **Azure cost management app** (cost app / FinOps dashboard) by **anuj7052**:
 multi-tenant Azure cost analysis, anomaly detection, BOQ vs actual, and an Azure billing CRM for CSP partners.
 
-🔗 **Live:** [azure.microsoftupdates.co.in](https://azure.microsoftupdates.co.in) · ⭐ **Code:** [github.com/anuj7052/cloudledger](https://github.com/anuj7052/cloudledger)
+🔗 **Live:** [azure.microsoftupdates.co.in](https://azure.microsoftupdates.co.in) · 📄 **Project page:** [anuj7052.github.io/cloudledger](https://anuj7052.github.io/cloudledger/) · ⭐ **Code:** [github.com/anuj7052/cloudledger](https://github.com/anuj7052/cloudledger)
+
+[![Cloudledger](https://raw.githubusercontent.com/anuj7052/cloudledger/main/docs/images/hero.png)](https://github.com/anuj7052/cloudledger)
 
 
 
